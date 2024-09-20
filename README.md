@@ -4,7 +4,7 @@
 
 🌱 Actuellement, j'effectue un stage en tant qu'ingénieur de données chez Eggo Kitchen.
 
-💞️ Je recherche des collaborations sur des projets liés à l'IA, au traitement des données et à l'automatisation des flux de travail.
+Je recherche des collaborations sur des projets liés à l'IA, au traitement des données et à l'automatisation des flux de travail.
 
 📫 Vous pouvez me contacter à : [yasserkaouni@gmail.com].
 
