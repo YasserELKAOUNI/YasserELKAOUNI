@@ -1,6 +1,6 @@
 👋 Bonjour, je m'appelle Yasser
 
-👀 Je m'intéresse à l'ingénierie des données, au Machine Learning et au Deep Learning, ainsi qu'à l'orchestration des données.
+👀 Je m'intéresse à l'ingénierie des données, au Machine Learning et au Deep Learning.
 
 🌱 Actuellement, j'effectue un stage en tant qu'ingénieur de données chez Eggo Kitchen.
 
