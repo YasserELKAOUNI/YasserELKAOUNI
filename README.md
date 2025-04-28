@@ -1,12 +1,12 @@
-👋 Bonjour, je m'appelle Yasser
+👋 Bonjour, je m'appelle Yasser.
 
-👀 Je m'intéresse à l'ingénierie des données, au Machine Learning et au Deep Learning.
+🚀 Data Engineer spécialisé dans l'écosystème Microsoft Azure et Microsoft Fabric.
 
-🌱 Actuellement, j'effectue un stage en tant qu'ingénieur de données chez Eggo Kitchen.
+🌎 Je conçois et optimise des architectures Data Lakehouse modernes End-to-End, des pipelines ETL robustes et des solutions d'analytics Cloud.
 
-Je recherche des collaborations sur des projets liés à l'IA, au traitement des données et à l'automatisation des flux de travail.
+🎯 Ouvert aux opportunités dans l'ingénierie des données Azure, Fabric et l'automatisation data-driven.
 
-📫 Vous pouvez me contacter à : [yasserkaouni@gmail.com].
+📫 Contact : [yasserkaouni@gmail.com]
 
 
 
