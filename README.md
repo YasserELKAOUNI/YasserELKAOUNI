@@ -1,10 +1,8 @@
 👋 Bonjour, je m'appelle Yasser.
 
-🚀 Data Engineer spécialisé dans l'écosystème Microsoft Azure et Microsoft Fabric.
+🚀 ML engineer
 
-🌎 Je conçois et optimise des architectures Data Lakehouse modernes End-to-End, des pipelines ETL robustes et des solutions d'analytics Cloud.
-
-🎯 Ouvert aux opportunités dans l'ingénierie des données Azure, Fabric et l'automatisation data-driven.
+🌎 Je conçois et optimise des plateformes d'évaluation de la recherche  .
 
 📫 Contact : [yasserkaouni@gmail.com]
 
